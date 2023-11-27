@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ecommerce Dashboard is a Power BI project that provides insights into key metrics and trends related to online sales and customer behavior. The dashboard is designed to help analyze product performance, sales trends, and customer engagement.
+Ecommerce Sales Analytics Dashboard is a Power BI project that provides insights into key metrics and trends related to online sales and customer behavior. The dashboard is designed to help analyze product performance, sales trends, and customer engagement.
 
 ## Features
 
